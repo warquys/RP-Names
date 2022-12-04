@@ -1,7 +1,7 @@
 # RpName
 This plugin are plugin for SCP sl servers under the [Exiled loader](https://github.com/Exiled-Team/EXILED). Plugin inspired by [Exiled Rp Name](https://github.com/babyboucher/RPNames). This plugin allows you to customize the name of the players according to their roles !
 
-the plugins dll can be download [here](replace this) 
+the plugins dll can be download [here](https://github.com/warquys/RP-Names/releases) 
 
 ## Config
 
